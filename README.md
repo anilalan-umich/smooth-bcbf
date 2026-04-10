@@ -10,7 +10,7 @@ MATLAB code accompanying the paper:
 
 
 
-The script reproduces the double-integrator example of Section V: it computes the system data $(M, r, d)$, the smoothing threshold $\\theta^\*$, and the class-$\\mathcal{K}$ gain $\\gamma^\*$ on a grid, and simulates the classical and smoothed backup CBF safety filters for several values of $\\gamma$.
+The script reproduces the double-integrator example of Section V: it computes the system data $(M, r, d)$, the smoothing threshold $\theta^*$, and the class-$\mathcal{K}$ gain $\gamma^\*$ on a grid, and simulates the classical and smoothed backup CBF safety filters for several values of $\gamma$.
 
 
 
