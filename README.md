@@ -1,4 +1,4 @@
-\# Uniform Feasibility for Smoothed Backup Control Barrier Functions
+# Uniform Feasibility for Smoothed Backup Control Barrier Functions
 
 
 
@@ -14,19 +14,19 @@ The script reproduces the double-integrator example of Section V: it computes th
 
 
 
-\## Requirements
+## Requirements
 
 
 
-\- MATLAB R2023b or later
+- MATLAB R2023b or later
 
-\- Optimization Toolbox (`quadprog`)
+- Optimization Toolbox (`quadprog`)
 
-\- Control System Toolbox (`lyap`)
+- Control System Toolbox (`lyap`)
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -46,7 +46,7 @@ The script prints the computed bounds, thresholds, and timing information to the
 
 
 
-\## Citation
+## Citation
 
 
 
